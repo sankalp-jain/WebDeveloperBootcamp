@@ -1,0 +1,47 @@
+table, th {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+}
+
+#n1 {
+	border-left: 0;
+	border-top: 0;
+}
+
+#n2 {
+	border-top: 0;
+}
+
+#n3 {
+	border-top: 0;
+	border-right: 0;
+}
+
+#n4 {
+	border-left: 0;
+}
+
+#n6 {
+	border-right: 0;
+}
+
+#n7 {
+	border-left: 0;
+	border-bottom: 0;
+}
+
+#n8 {
+	border-bottom: 0;
+}
+
+#n9 {
+	border-bottom: 0;
+	border-right: 0;
+}
